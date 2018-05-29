@@ -1,0 +1,16 @@
+{
+  "bot": {
+    "token": "NDQ4NjU0ODM3NzA2NjUzNzA2.De416A.7b6Y_zI92DV5wxyRhQZq9c0L0bE",
+    "prefix": "!",
+    "debug": true
+  },
+  "acedd": {
+    "port": 24126 ,
+    "user": "username",
+    "pass": "password"
+  },
+  "vouchers": {
+    "filename": "vouchers-example.json"
+  },
+  "botspamchannel": "439474295190585354"
+}
